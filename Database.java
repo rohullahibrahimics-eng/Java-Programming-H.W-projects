@@ -7,10 +7,7 @@ import java.io.*;
 import com.sun.jdi.connect.spi.Connection;
 import java.beans.Statement;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 public class Database {
     public static void main(String[] args) throws FileNotFoundException, IOException{
         

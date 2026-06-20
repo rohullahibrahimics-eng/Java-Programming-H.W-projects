@@ -4,10 +4,7 @@
  */
 package chapter8;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 public class chapter8_33 {
     public static void main(String[] args){
         double [][] points={{1,1},{2,2},{3,3}};

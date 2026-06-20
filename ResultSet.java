@@ -4,10 +4,7 @@
  */
 package javaapplication66;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 class ResultSet {
     
 }

@@ -4,10 +4,6 @@
  */
 package designing_loan_class;
 
-/**
- *
- * @author Mohammad Asif
- */
 public class TestLoanClass {
 
     /**

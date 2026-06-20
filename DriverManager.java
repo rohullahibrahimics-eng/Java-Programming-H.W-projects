@@ -6,10 +6,7 @@ package javaapplication66;
 
 import com.sun.jdi.connect.spi.Connection;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 class DriverManager {
 
     static Connection getConnection(String url, String user, String pass) {

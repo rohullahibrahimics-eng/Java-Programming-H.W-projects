@@ -4,10 +4,7 @@
  */
 package chapter8;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 public class Scanner {
     
 }

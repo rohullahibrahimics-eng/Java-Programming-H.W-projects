@@ -4,10 +4,6 @@
  */
 package total_area;
 
-/**
- *
- * @author Mohammad Asif
- */
 public class Total_area {
 
     /**

@@ -6,10 +6,7 @@ package foreach_average;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 public class Foreach_average {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);

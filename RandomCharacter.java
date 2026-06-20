@@ -4,10 +4,8 @@
  */
 package countlettersinarraylisting7_4;
 
-/**
- *
- * @author DELL
- */
+
+
 class RandomCharacter {
 
     static char getRandomLowerCaseLetter;

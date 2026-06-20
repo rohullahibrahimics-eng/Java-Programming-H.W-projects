@@ -2,10 +2,6 @@ package chapter_10;
 
 import java.util.Stack;
 
-/**
- *
- * @author Mohammad Asif
- */
 public class testStack {
     public static void main(String[] args) {
      Stack stack=new Stack();

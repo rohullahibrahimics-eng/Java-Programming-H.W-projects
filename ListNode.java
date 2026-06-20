@@ -4,10 +4,6 @@
  */
 package javaapplication63;
 
-/**
- *
- * @author Mohammad Asif
- */
 class ListNode {
     
 }

@@ -4,10 +4,7 @@
  */
 package weathe;
 
-/**
- *
- * @author Mohammad Asif
- */
+
 class Scanne {
     
 }
